@@ -1,0 +1,6 @@
+
+  services:
+  - type: web
+    name: Eaglercraft
+    env: docker
+    plan: free
